@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>items</key>
+        <array>
+                <dict>
+                        <key>assets</key>
+                        <array>
+                                <dict>
+                                    <key>kind</key>
+                                    <string>software-package</string>
+                                    <key>url</key>
+                                    <string>http://www-lbuilder-com.oss-www.lbuilder.com/app_package/lbuilder__55437_1557795842.ipa</string>
+                                </dict>
+                        </array>
+                        <key>metadata</key>
+                        <dict>
+                            <key>bundle-identifier</key>
+                            <string>15614565646</string>
+                            <key>bundle-version</key>
+                            <string>1.0.0</string>
+                            <key>kind</key>
+                            <string>software</string>
+                            <key>title</key>
+                            <string>G.Y.W</string>
+                        </dict>
+                </dict>
+        </array>
+</dict>
+</plist>
